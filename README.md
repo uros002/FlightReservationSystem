@@ -1,4 +1,4 @@
-<h1> Air Manager</h1>
+<h1> Flight Reservation System</h1>
 
 <h2>Admin Account Information</h2>
 <p>The admin account credentials for login:</p>
@@ -14,8 +14,8 @@
   <li>Delete the <b>bin</b> and <b>obj</b> folders in the project directory if the application encounters issues.</li>
 </ul>
 
+<h1>ABOUT</h1>
 
-Flight Reservation System
 This project is a web application designed to simulate an online flight ticket reservation system. The application is built using jQuery library, REST (ASP.NET Web API 2), and AJAX calls, with JSON objects exchanged between the client and the server.
 
 User Roles
